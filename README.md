@@ -8,4 +8,4 @@
 ## Reference
  - The manuals can be found in directory `manual/`.
 
-## If this repository do help you, :star: STAR IT. 
+## If this repository does help you, :star: STAR IT. 
